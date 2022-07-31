@@ -1,0 +1,18 @@
+{
+    "Homer Simpson": {
+      "image": "https://images.unsplash.com/photo-1445264718234-a623be589d37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    "Leo Quiroga": {
+      "image": "https://scontent.faep9-3.fna.fbcdn.net/v/t1.6435-9/80984990_1026467824374300_7040914139450966016_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeE1msggWQrgs5Nk9M__MEWT0ELc70f5sZDQQtzvR_mxkId53JDozsSGAUuW4AQLK38&_nc_ohc=bY0aO1KsayMAX_4MO8x&tn=9FGr2qAOpwNEqBnn&_nc_ht=scontent.faep9-3.fna&oh=00_AT_bNJsPGdmxsF01wPqYADumTr1sfsItpJBHPuIktWL4lQ&oe=6309912E",
+      "avatar": "https://scontent.faep9-2.fna.fbcdn.net/v/t31.18172-8/14615738_333653103655779_703454686355278800_o.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHM5pLSu0_SKnBx0LJaXrrQP3_63Fbx6uY_f_rcVvHq5hDLDRvbxCz2S60vqmU5qmQ&_nc_ohc=-6o-9094l4YAX_1d1jN&_nc_ht=scontent.faep9-2.fna&oh=00_AT8K2a9oWdYyUrBj0I6sNywp7FiIOlqPHglthv_5Wg5e1g&oe=630A2540"
+    },
+    "Mardito": {
+        "image": "https://scontent.faep9-2.fna.fbcdn.net/v/t1.18169-9/227903_1858012163274_2926930_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=de6eea&_nc_eui2=AeF5BGarXfWCZgED9gekDknFPCZYpsKIe7o8Jlimwoh7uk45Jk1-4CkfXzFZHiyLbog&_nc_ohc=YsyfEq8JbiIAX_C_IOG&_nc_ht=scontent.faep9-2.fna&oh=00_AT-FGGNmqlq_MG0QumWhD2o4CwJyfuH29tAUGLg8Qvg8kQ&oe=6309FC9A",
+        "avatar": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.18169-9/19247960_10210853421704818_9215108617503199302_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHS9wbXtP7Gz_-OljUftoGz8yxtEX8g-OLzLG0RfyD44pb-Z-GvIw36jg6ri-500Rg&_nc_ohc=IK7QMmEwjDoAX_s7f5b&_nc_ht=scontent.faep9-1.fna&oh=00_AT87HKIRH-8l1JurHJ8Sjz4pLvPlJhtOw2z281XgAI_YlQ&oe=630B3587"
+    },
+    "Lucho": {
+        "image": "https://scontent.faep9-3.fna.fbcdn.net/v/t31.18172-8/478449_457417050999011_487065504_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=de6eea&_nc_eui2=AeHpv6HN4Y-Ha_ib4NqijjWaqYkfa56ssaWpiR9rnqyxpdI5KiW1nDWWmXvevK5knLU&_nc_ohc=7DGxb2rpLL4AX8Hf2TA&_nc_ht=scontent.faep9-3.fna&oh=00_AT-Tp7gwlbTAhxy5UtJUGx0izE6szMWdLIUYj1vMWtwB0Q&oe=63096392",
+        "avatar": "https://scontent.faep9-2.fna.fbcdn.net/v/t1.18169-9/575856_327163380691046_1559331684_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=de6eea&_nc_eui2=AeH0mj3ep4RYq3Pkcp_wRvDmYG0VFCuii_xgbRUUK6KL_PtH-vr3xQZCaRdRgYX_yP0&_nc_ohc=dnG3Y6nJtdUAX8-xbD_&_nc_ht=scontent.faep9-2.fna&oh=00_AT-6M1MxEI0yyHd6NZuD76AN7-5yZI3yDgPNDrX8RtjjJw&oe=630CE018"
+    }
+}
